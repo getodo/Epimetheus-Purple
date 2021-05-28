@@ -1,0 +1,9 @@
+zephyr
+build
+*.code-workspace
+**/.vscode
+.clang-format
+.cython
+*.zip
+*.7z
+*.pyc
